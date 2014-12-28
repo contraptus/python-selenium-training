@@ -1,3 +1,0 @@
-line1: today is 22/12/2014
-line2: Monday
-line3: just a test
